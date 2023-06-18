@@ -1,6 +1,6 @@
 import json
 
-from node.utils import calculate_hash
+from block.utils import calculate_hash
 from datetime import datetime
 
 class Block:
